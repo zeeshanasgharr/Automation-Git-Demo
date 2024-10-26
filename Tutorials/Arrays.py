@@ -1,4 +1,5 @@
 #this work is done by Imrzn
+# This work is done uzair
 import array
 
 arr = array.array('i',[10,20,30,40,50])
